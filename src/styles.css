@@ -51,12 +51,8 @@
     color: #fff;
     font-size: 20px;
     cursor: pointer;
-    transition: transform 0.7s;
 }
 
-.buttonSearch :hover{
-    transform: scale(1.2);
-}
 
 .main{
     display: flex;
